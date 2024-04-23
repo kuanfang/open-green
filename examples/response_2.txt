@@ -1,0 +1,37 @@
+[[Project Name]]
+
+Bioremediation of Heavy Metals
+
+[[Technical Summary of Work]]
+
+Bioremediation is a technique utilizes the biological inherent in microbes and plants to restore the ecosystem to its original condition. The basic principles of bioremediation involve reducing the solubility of these environmental contaminants by changing pH, the redox reactions, and adsorption of contaminants from a polluted environment.
+
+In this study, we collected 930 values from other literature studies that comprise common cells used for metal sorption and metal tolerance, with aims to (i) correlate microbial metal tolerance, in terms of minimum inhibitory concentration (MIC), with the type of metal; (ii) correlate microbial metal tolerance, in terms of MIC, with the microbial Kingdom; (iii) correlate microbial metal tolerance, in terms of MIC, with the bacterial genus; (iv) determine if growth medium influences MIC; (v) determine if type of culture, pure culture or consortium, affects MIC; (vi) link microbial metal sorption capacity with microbial Kingdom; (vii) link microbial metal sorption capacity with the types of metal; and (viii) determine if biodiversity has a significant effect on maximum adsorption capacity (qmax) by considering values of consortia and pure cultures. This approach will allow us to gain a better understanding of the role of microbial diversity, metal resistance, and metal sorption in bioremediation processes.
+
+1st analysis: We found that there is a statistically significant difference between the different metals and the overall microbial tolerance under the same redox conditions (aerobic), with a p- value <0.001.
+
+2nd analysis: We found that Fungi has the highest metal tolerance probably because it has both prokaryotes and eukaryotes metal detoxification mechanisms. After Fungi Eubacteria and Plantae had the highest MIC.
+
+3rd analysis: We found that the difference between the genera is significant as Bacillus, Cupriavidus, Klebsiella, and Paenibacillus are the most resistant genera.
+
+4th analysis: We found that there is no significant difference between minimum and rich media. This could be due to the production extracellular polymeric substances (EPS) by bacteria, which makes the chemistry of minimum and rich media the same.
+
+5th analysis: We found that consortium has higher metal tolerance than pure culture. This result may be explained by the communication between cells through which they can trigger changes in gene expression in response to high levels of metal.
+
+6th analysis: We found that Eubacteria has the highest sorption capacity, as there was no difference between Fungi and Plantae. This result clearly shows that tolerance is not directly related to the bioremediation ability of a group of microorganisms since Fungi has the highest tolerance (2nd analysis) but not the highest adsorption capacity.
+
+7th analysis: We found that there is statistically significant difference between adsorption capacity for each metal.
+
+8th analysis: We observed that consortium had higher qmax compared to pure culture. This result demonstrates the importance of investigating complex microbial communities for metal sorption applications.
+
+[[Plain Language Summary of Work]]
+
+Heavy metals can be harmful to the environment. Researchers have used different approaches to remove heavy metals from aquatic environment or soil. One of these approaches is to use microorganisms to remove the heavy metals, which is called bioremediation. We analyzed the data from other researchers using statistical tools to determine the important parameters in designing a bioremediation process. There are two important characteristics of microorganisms that play a vital role in bioremediation: (1) the tolerance of microorganisms to heavy metal, since heavy metals can be toxic to them, and (2) the amount of heavy metals microorganisms can adsorb from the environment. We correlated these two parameters to different microorganisms and conditions. Our main findings are that we found that Fungi has the highest tolerance to heavy metals, but they do not have the highest heavy metal uptakes. Eubacteria showed the highest metal uptake which make them the best candidate for bioremediation considering they grow faster that Fungi and easier to work with. We also observed that when a mixture of microorganisms has been used for bioremediation the amount of metal uptake is significantly higher and a group of microorganisms has higher tolerance to heavy metals compared to a single microorganism. We believe, based on these results, despite that most previous studies have used a microbial isolate for bioremediation, researchers should focus more on using mixture of microorganisms for metal removal. Besides, we should also consider that using an isolate is not practical for real applications since the isolate can easily get contaminated by other microorganisms present in the environment. This contamination can negatively affect the bioremediation property of the isolate, but for a mixture of microorganisms it is less likely that the other microorganisms present in the environment affect their performance.
+
+[[Summary of the Significance of the Work]]
+
+- This project is important to my field because heavy metal pollution has adversely affected the natural ecosystem. These pollutants arise from natural and anthropological sources. Heavy metals are toxic, carcinogenic, non-biodegradable, and could accumulate in agricultural soils and get into the food chain thereby becoming a major threat to food security. Bioremediation is an eco-friendly and cost-effective method compared to the conventional chemical and physical methods, when metal concentrations are low. Our study guides future studies in the developing approach of bioremediation, by determining and highlighting the main findings of the previous studies. We believe our results can facilitate the way for bioremediation to become a practical method for heavy metal removal.
+
+- This project is important to the United States because heavy metal pollution is an environmental problem in the United States as well as across the world. Different projects have been organized by environmental protection agency (EPA) over the past decades for metal removal from the environment. For instance, at Dearing Smelter site, Kansas, the concentration of zinc and lead in the surface soil is extremely high, or the concentration of arsenic is quite high at the Whitewood Creek site, South Dakota. The health hazard from these sites would be by the exposure routes of wind-blown dust and ingestion by children. Bioremediation can effectively be used for heavy metal removal from contaminated sites.
+
+- This project is related to my proposed endeavor because this represents one of the bioremediation strategies I mention in my proposed endeavor. This work resulted in new ideas for approaches to bioremediation (such as relying on a variety of microorganisms rather than only one to maximize metal uptake), which is directly in-line with my proposed endeavor.

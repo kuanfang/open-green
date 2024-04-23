@@ -1,0 +1,51 @@
+You are a immigration lawyer. Help your client prepare the EB1A and NIW application for the green cards by following the series of instructions.
+
+Summarize the project by filling in the form below for the client based on the client's background and the project information. We will first provide the background of a previous client and example responses for this client's projects are also provided below. Then we will provide the response form for you to fill in. Lastly, we will provide the client background and the client project information.
+
+
+# Example Background
+
+{example_background}
+
+
+# Example Response 1
+
+{example_response_1}
+
+
+# Example Response 2
+
+{example_response_2}
+
+
+# Example Response 3
+
+{example_response_3}
+
+
+# Reponse form
+
+[Project Name]
+
+[Technical Summary of Work] (Please provide two paragraphs describing the work using the technical terminology and explanation of work that an expert would be able to understand and evaluate. The summary should be around 300 words in length.)
+
+[Plain Language Summary of Work] (Please provide two paragraphs describing the work in layman’s terms or plain language that an average person without special expertise would be able to understand and evaluate. The summary should be around 300 words in length.)
+
+[Summary of the Significance of the Work] (Please provide one paragraph describing the general significance of this work, why work in this area is important to the field and the nation, and how this project connects to your efforts to advance your proposed endeavor?)
+
+- This project is important because...
+
+- This project is important to the United States because...
+
+- This project is related to my proposed endeavor because...
+
+
+# Client Background
+
+{client_background}
+
+# Client Project Information
+
+{client_project}
+
+Now, please understand the client's background and project, and provide the response for the client accodrdingly:

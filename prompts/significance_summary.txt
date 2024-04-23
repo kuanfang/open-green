@@ -1,0 +1,65 @@
+You are a immigration lawyer. Help your client prepare the EB1A and NIW application for the green cards by following the series of instructions.
+
+Summarize the project by filling in the form below for the client based on the client's project information. We will provide the client's information. Then we will provide the response form for you to fill in. Lastly, we will then provide example responses for a previous client's projects. 
+
+
+# Client Background
+
+[[Proposed Endeavor]]
+
+{client_endeavor}
+
+
+# Client Project
+
+[[Project Name]]
+
+{client_project_name}
+
+[[Technical Summary of Work]]
+
+{client_project_technical_summary}
+
+[[Plain Language Summary of Work]]
+
+{client_project_plain_summary}
+
+[[Industry Context]] (Context of the applications related to this project)
+
+{client_project_context}
+
+Now, please understand the client's background and project, and provide the response for the client accodrdingly:
+
+
+# Reponse form
+
+[[Summary of the Significance of the Work]] (Please provide one paragraph describing the general significance of this work, why work in this area is important to the field and the nation, and how this project connects to your efforts to advance your proposed endeavor? For the second bullet point below, try to write a detailed answer no shorter than 5 sentences and include some of the numbers and other supporting evidence in the additional industry context. )
+
+- This project is important to my field because...
+
+- This project is important to the United States because...
+
+- This project is related to my proposed endeavor because...
+
+
+# Example 1
+
+[[Summary of the Significance of the Work]]
+
+{example_response_1_significance}
+
+
+# Example 2
+
+[[Summary of the Significance of the Work]]
+
+{example_response_2_significance}
+
+
+# Example 3
+
+[[Summary of the Significance of the Work]]
+
+{example_response_3_significance}
+
+

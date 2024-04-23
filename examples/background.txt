@@ -1,0 +1,53 @@
+1) Main Field/Industry: 
+
+My main field/industry is environmental engineering.
+
+2) Subfields/Specializations: 
+
+Within this general field, I specialize in wastewater treatment, bioremediation, and desalination.
+
+My top skills include mathematical modeling, water resource engineering, sanitary processes engineering, and water resources design.
+
+3) Your Place in the Field:
+
+I have worked on different environmental issues like wastewater treatment, bioremediation, and seawater desalination over the past 6 years. Working on different aspects of environmental issues has helped me to come up with new solutions by combining techniques used in many different fields. During these years I have developed many skills, like how to design a project, how to design an experiment, working with different instruments, writing papers, etc. These skills will help me to be part of research team and design new solutions to common environmental issues. Further, I have recently won a John B. Hawley memorial fellowship from the American Society of Civil Engineers, and plan to begin work on a project funded by the National Science Foundation (NSF) in a few months.
+
+4) Summary of Top Achievements in Field/Industry: 
+
+I am an environmental engineer who studies wastewater treatment, heavy metal remediation, and desalination. The overarching goal of my research is to remove pollutants from the environment and provide fresh water by brackish water or seawater desalination. My work has practical applications in industrial wastewater treatment, polluted ecosystem remediation, and brackish and seawater desalination. These are my most significant research contributions so far:
+- Synthesizing novel magnetic nanocomposites to remove dye and heavy metal from industrial wastewater
+- Establishing the importance of microbial consortium as oppose to pure culture in heavy metal remediation
+- Starting a new approach, simultaneous inhibiting of scaling and biofouling on reverse osmosis membranes, to improve water recovery in desalination plants
+- Received John B. Hawley memorial fellowship from American Society of Civil Engineers
+
+5) Plans for Continued Engagement in the Field (PLEASE FILL OUT SECTION 5 ONLY IF YOU ARE FILING NIW): 
+
+5.A) Proposed Endeavor
+
+For my proposed endeavor, I intend to continue my research on wastewater treatment and bioremediation strategies with the goal of improving existing decontamination methods. I also plan on continuing my research on developing novel desalination techniques with the goal of improving access to drinkable water in areas where water scarcity is a significant issue. I believe I will be able to accomplish these research goals over the course of my current and future employment in the Department of Civil and Environmental Engineering at the University of Houston, where I am currently completing my Ph.D. and where I have been offered a permanent research position upon the completion of my degree. My supervisor is willing to sign a letter confirming their intent to hire me once I have completed my Ph.D. studies.
+
+5.B) National Science and Technology Council’s Critical and Emerging Technologies Update
+
+N/A
+
+C) How past work has prepared you for your proposed endeavor
+
+The work I have completed at the University of Houston has left me well-positioned to achieve my proposed endeavor. The work I have published while conducting research at this institution has been widely cited within the field of environmental engineering. Further, my research possesses inherent benefits for the United States, especially within the context of environmental remediation and fresh water availability. I also believe I will be similarly well-positioned upon the completion of my Ph.D. degree, after which I intend to transition into a permanent research position in the same field at the University of Houston.
+
+6)  Substantial Merit and National Importance of Your Proposed Endeavor (NIW) or of Your Overall Research (EB1A, EB1B, or O1)
+
+6.A) How is your specific work (proposed endeavor) inherently and/or fundamentally valuable to the interests of the United States?
+
+Generally, my work in the field of environmental engineering is related to cleaning up the environment, inhibiting contamination discharge to the environment, and providing a sustainable source of fresh water by desalinating sources of seawater and brackish water. The removal of contaminants from polluted water sources can help preserve the environment and prevent serious health outbreaks related to contamination from heavy metals and dyes. For instance, heavy metals such as cadmium are highly toxic, carcinogenic, and tend to accumulate within the body over time, resulting in devastating chronic symptoms. Dyes are equally dangerous and can act as neurotoxins in humans and animals when ingested. Thus, research within this field that serves to efficiently and cost-effectively remove these hazardous pollutants from wastewater is extremely important to public health within the United States.
+
+Further, it has been reported that fresh water sources in the United States will eventually be unable to match the demand of the population for drinkable water, according to a study published in Earth’s Future in 2019. These fresh water shortages are predicted to occur due to the country’s increasing population totals as well as fewer rainfall density as a result of active climate change. Another aspect of my work is focused on providing sustainable sources of fresh water through efficient desalination methods, demonstrating that the work conducted in my field is inherently beneficial to the United States.
+
+6.B) How does your specific work (proposed endeavor) directly benefit the United States? 
+
+Within the field of environmental engineering, my work specifically benefits the United States in multiple ways. First, the Environmental Protection Agency’s (EPA) regulations on the limit of pollutants allowed to be released into wastewater sources has grown increasingly strict over the years, specifically due to the Clean Water Act. Therefore, many U.S. industries are in dire need of new techniques to both minimize contamination discharge and clean up heavily polluted sites. In one of my most-cited studies to date, I was able to introduce a novel method for removing harmful pollutants, such as heavy metals and dyes, using two series of magnetically-charged particles with polymer coatings. Our method proved to be extremely successful at removing the majority of the contaminants from the wastewater samples, especially in comparison to similar studies examining the same pollutants. Further, I designed these particles to be re-usable over several decontamination cycles for a long period of time, which improves the overall cost- effectiveness of my method for these industries.
+
+As described above, another major problem in the United States is water scarcity, which is projected to worsen due to population growth and climate change. For instance, the state of California has been struggling with issues related to water scarcity over the past seven years. One solution they have actively pursued is desalination, primarily due to their proximity to the western coast and its unlimited supply of ocean water. One of my more recent works in the field has focused on improving large-scale membrane separation via reverse osmosis (RO), which is one of the most widely-used desalination techniques in use in the United States today. Even though RO desalination techniques have advanced significantly in recent decades, membrane fouling is still a common occurrence that hampers effectiveness. In my work, I examined the benefits of applying a graphene oxide (GO) coating on an RO membrane prior to desalination. I found that the membrane coated with GO experienced less fouling compared to a membrane without coating and possessed higher water recovery over time, a discovery which will decrease both the cost and energy demands for desalination plants in the United States. Hence, my work in the field is directly beneficial to the country.
+
+7)  Evidence of Employment / Employability in the Field
+
+N/A

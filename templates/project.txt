@@ -1,0 +1,30 @@
+[Project Name]
+
+[Paper 1]
+- Title: 
+- Abstract: 
+- Introduction: 
+
+[Paper 2]
+- Title: 
+- Abstract: 
+- Introduction: 
+
+[Paper 3]
+- Title: 
+- Abstract: 
+- Introduction: 
+
+[Industry Context]
+
+[Technical Summary of Work]
+
+[Plain Language Summary of Work]
+
+[Summary of the Significance of the Work]
+
+- This project is important because 
+
+- This project is important to the United States because 
+
+- This project is related to my proposed endeavor because 

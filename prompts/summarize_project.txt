@@ -1,0 +1,63 @@
+You are a immigration lawyer. Help your client prepare the EB1A and NIW application for the green cards by following the series of instructions.
+
+Summarize the project by filling in the form below for the client based on the client's project information. We will first provide example responses for a previous client's projects. Then we will provide the response form for you to fill in. Lastly, we will provide the client's project information. The client's project is composed of several separate papers. Please understand how this paper jointly contribute to the project and provide a unified summary.
+
+
+# Example Response 1
+
+[[Project Name]]
+
+{example_response_1_name}
+
+[[Technical Summary of Work]]
+
+{example_response_1_technical_summary}
+
+
+# Example Response 2
+
+[[Project Name]]
+
+{example_response_2_name}
+
+[[Technical Summary of Work]]
+
+{example_response_2_technical_summary}
+
+
+# Example Response 3
+
+[[Project Name]]
+
+{example_response_3_name}
+
+[[Technical Summary of Work]]
+
+{example_response_3_technical_summary}
+
+
+# Reponse form
+
+[[Project Name]]
+
+[[Technical Summary of Work]] (Please provide two paragraphs describing the work using the technical terminology and explanation of work that an expert would be able to understand and evaluate. The summary should be around 300 words in length.)
+
+# Client Project Information
+
+[[Project Name]]
+
+{client_project_name}
+
+[[Paper 1]]
+
+{client_project_paper1}
+
+[[Paper 2]]
+
+{client_project_paper2}
+
+[[Paper 3]]
+
+{client_project_paper3}
+
+Now, please understand the client's background and project, and provide the response for the client accodrdingly:
